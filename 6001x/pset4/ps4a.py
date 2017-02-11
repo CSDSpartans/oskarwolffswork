@@ -48,7 +48,7 @@ def getFrequencyDict(sequence):
     for x in sequence:
         freq[x] = freq.get(x,0) + 1
     return freq
-	
+    
 
 # (end of helper code)
 # -----------------------------------
