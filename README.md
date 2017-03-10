@@ -2,7 +2,7 @@
 A repository holding my work for tech class
 
 
-## Other project's I'm a part of:
+## Other projects I'm a part of:
 https://github.com/PostsDesert/Minnow-Plugins - A repo holding a bunch of plugins that Griffith and I are writing for a discord bot.
 
 ~~https://github.com/PostsDesert/ThisThat - An iOS app I'm working on with Griffith~~ this project has been discontinued
