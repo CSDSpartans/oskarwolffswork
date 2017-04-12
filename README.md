@@ -1,6 +1,8 @@
 # oskarwolffswork
-## Projects I'm a part of:
+## Projects I've worked on:
 [Minnow Plugins](https://github.com/PostsDesert/Minnow-Plugins) - A repo holding a bunch of plugins for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot).
+
+[todoist-schoology](https://github.com/FlashTheDash/todoist-schoology) - A script that pulls events from schoology, then adds them to todoist.
 
 ~~[ThisThat](https://github.com/PostsDesert/ThisThat) - An iOS app I'm working on with Griffith~~ 
 This project has been discontinued.
